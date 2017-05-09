@@ -1,0 +1,9 @@
+id,street,cross_street,trail,speed_limit,infrastructure,lat,long,counts
+1,Iron Horse Trail,south of Westcliffe Pl.,Y,15,1,37.915656,-122.05662,10
+2,Iron Horse Trail,North of Contra Costa Trail,Y,15,1,37.922878,-122.055247,20
+3,Contra Costa Canal Trail,west of Oak Rd.,Y,15,1,37.92183,-122.058557,30
+4,Contra Costa Canal Trail,east of Iron Horse,Y,15,1,37.922683,-122.054778,40
+5,Contra Costa Trail,East of Oak,Y,15,1,37.921938,-122.057628,50
+6,Contra Costa Trail,between Iron Horse Trail and Cherry,Y,15,1,37.922683,-122.054778,60
+7,Rudgear Rd,Broadway,N,35,4,37.879717,-122.048689,70
+8,Newell Ave,between Main and California,N,35,3,37.892827,-122.059865,80

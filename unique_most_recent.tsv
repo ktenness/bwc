@@ -1,0 +1,45 @@
+count_time	count_locations	counters	total_bike	female_bike	male_bike	total_ped	female_ped	male_ped	other	female_bike_helmet_sidewalk	female_bike_nohelmet_sidewalk	female_bike_helmet_nosidewalk	female_bike_nohelmet_nosidewalk	female_bike_helmet	female_bike_nohelmet	female_bike_sidewalk	female_bike_nosidewalk	male_bike_helmet_sidewalk	male_bike_nohelmet_sidewalk	male_bike_helmet_nosidewalk	male_bike_nohelmet_nosidewalk	male_bike_helmet	male_bike_nohelmet	male_bike_sidewalk	male_bike_nosidewalk	street	cross_street	trail	speed_limit	infrastructure	lat	long	year	month
+7	32	10	69	17	42	52	17	35	1	\N	\N	\N	\N	8	9	\N	\N	\N	\N	\N	\N	32	10	\N	\N	Main St	Mt. Diablo Blvd	N	25	4	37.897172	-122.059918	2016	5
+7	4	38	173	43	139	85	36	49	1	\N	\N	\N	\N	30	13	\N	\N	\N	\N	\N	\N	88	42	\N	\N	Contra Costa Canal Trail	east of Iron Horse	Y	15	1	37.922683	-122.054778	2016	5
+7	29	25	19	2	17	7	3	4	0	\N	\N	\N	\N	2	0	\N	\N	\N	\N	\N	\N	11	6	\N	\N	Walnut Ave	south of Ygnacio	N	35	2	37.920404	-122.033634	2016	5
+7	17	3	27	8	19	251	122	129	2	0	0	6	2	6	2	0	8	1	1	10	7	11	8	2	17	California Blvd	between Bonanza and Almond 	N	35	2	37.899985	-122.063921	2016	5
+7	10	27	46	10	36	22	8	14	4	\N	\N	\N	\N	\N	\N	6	4	\N	\N	\N	\N	\N	\N	6	30	Olympic Blvd	west of Newell	N	35	2	37.892598	-122.061426	2016	5
+5	31	10	48	7	41	65	33	32	1	\N	\N	\N	\N	\N	\N	5	2	\N	\N	\N	\N	\N	\N	12	29	San Carlos Dr	south of Ygnacio	N	35	2	37.917299	-122.039014	2015	5
+5	28	32	15	3	12	29	13	16	0	\N	\N	\N	\N	\N	\N	3	0	\N	\N	\N	\N	\N	\N	7	5	Oak Grove Rd	north of Ygnacio	N	35	2	37.928131	-122.015282	2015	5
+5	13	2	32	6	26	191	99	92	0	\N	\N	\N	\N	\N	\N	5	1	\N	\N	\N	\N	\N	\N	6	20	Walker Ave	between Iron Horse and San Miguel	N	35	2	37.898948	-122.056191	2015	5
+5	16	20	36	7	29	262	118	144	1	\N	\N	\N	\N	\N	\N	2	5	\N	\N	\N	\N	\N	\N	7	22	California Blvd	immediately south of Ygnacio	N	35	2	37.904599	-122.065584	2015	5
+5	8	43	20	3	17	80	46	34	0	\N	\N	\N	\N	\N	\N	1	2	\N	\N	\N	\N	\N	\N	3	14	Newell Ave	between Main and California	N	35	3	37.892827	-122.059865	2015	5
+5	9	27	12	0	12	31	11	20	0	\N	\N	\N	\N	\N	\N	0	0	\N	\N	\N	\N	\N	\N	2	10	Olympic Blvd	west of California	N	35	2	37.895942	-122.063197	2015	5
+5	20	44	22	7	15	72	23	49	1	\N	\N	\N	\N	\N	\N	6	1	\N	\N	\N	\N	\N	\N	8	7	Civic Dr	between Parkside and Pine	N	35	4	37.911235	-122.05994	2015	5
+4	5	38	120	21	99	65	37	28	0	\N	\N	\N	\N	12	9	\N	\N	\N	\N	\N	\N	74	25	\N	\N	Contra Costa Trail	East of Oak	Y	15	1	37.921938	-122.057628	2014	5
+4	26	40	13	2	11	55	26	29	2	1	0	0	1	1	1	1	1	2	0	4	5	6	5	2	9	Geary Rd	West of Sprouts Shopping Center	N	35	2	37.926388	-122.065114	2014	5
+4	19	21	42	11	31	363	177	186	4	1	10	0	0	1	10	11	0	\N	\N	\N	\N	17	14	28	3	Ygancio Valley Rd	at California	N	35	4	37.904954	-122.065755	2014	5
+4	44	39	31	4	27	78	45	33	0	0	0	4	0	4	0	0	4	1	3	20	3	21	6	4	23	Newell Ave	east of Californa	N	35	2	37.892683	-122.060885	2014	5
+4	23	40	11	1	10	24	9	15	0	1	0	0	0	1	0	0	0	1	7	0	2	1	9	8	2	Main St	north of 680	N	35	4	37.917027	-122.065724	2014	5
+4	2	34	215	44	171	295	136	159	1	\N	\N	\N	\N	28	16	\N	\N	\N	\N	\N	\N	117	54	\N	\N	Iron Horse Trail	North of Contra Costa Trail	Y	15	1	37.922878	-122.055247	2014	5
+4	25	3	16	2	14	35	13	22	0	0	0	2	0	2	0	0	2	1	1	11	1	12	2	2	12	Buena Vista Ave	immediately north of Parkside	N	35	4	37.909476	-122.069795	2014	5
+4	21	1	22	6	16	473	235	238	2	2	0	2	2	4	2	2	4	1	4	5	6	6	10	5	11	Main St	between Civic and Lincoln	N	35	4	37.900814	-122.061421	2014	5
+4	1	33	175	37	138	246	115	131	2	\N	\N	\N	\N	27	10	\N	\N	\N	\N	\N	\N	98	40	\N	\N	Iron Horse Trail	south of Westcliffe Pl.	Y	15	1	37.915656	-122.05662	2014	5
+3	33	12	30	5	25	330	208	122	6	\N	\N	\N	\N	\N	\N	3	2	\N	\N	\N	\N	\N	\N	11	14	Mt. Diablo Blvd	east of Main St.	N	25	4	37.897426	-122.059616	2013	9
+3	14	1	22	9	13	127	70	57	0	0	0	6	3	6	3	0	9	1	4	3	5	4	9	5	8	Lincoln Ave	between Carmel and Broadway	N	35	4	37.90063	-122.059031	2013	9
+3	12	7	41	8	33	293	163	130	0	\N	\N	\N	\N	\N	\N	6	2	\N	\N	\N	\N	\N	\N	17	16	Mt. Diablo Blvd	west of Broadway	N	35	4	37.897728	-122.058615	2013	9
+2	24	18	7	0	7	75	30	45	4	\N	\N	\N	\N	\N	\N	0	0	\N	\N	\N	\N	\N	\N	7	0	Parkside Dr	west of Pimlico	N	35	4	37.911793	-122.06187	2013	5
+2	11	8	25	3	22	584	345	239	1	\N	\N	\N	\N	\N	\N	2	1	\N	\N	\N	\N	\N	\N	12	10	Mt. Diablo Blvd	between Main and Broadway Plaza	N	35	4	37.897466	-122.059474	2013	5
+2	30	26	9	0	9	5	3	2	0	\N	\N	\N	\N	\N	\N	0	0	\N	\N	\N	\N	\N	\N	9	0	Ygnacio 	at Walnut/Bancroft	N	35	4	37.920828	-122.034317	2013	5
+2	3	24	114	30	84	70	51	19	0	\N	\N	\N	\N	17	13	\N	\N	\N	\N	\N	\N	55	29	\N	\N	Contra Costa Canal Trail	west of Oak Rd.	Y	15	1	37.92183	-122.058557	2013	5
+1	22	18	8	3	5	90	36	54	0	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	Main St	Parkside	N	35	4	37.911944	-122.065422	2012	9
+1	36	18	8	2	6	66	31	35	0	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	Parkside Dr	Main St.	N	35	4	37.912	-122.065124	2012	9
+1	40	19	8	\N	\N	25	\N	\N	1	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	Civic Dr	Ygnacio	N	35	4	37.906551	-122.058868	2012	9
+1	42	19	26	\N	\N	74	\N	\N	0	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	Civic Dr	Broadway	N	35	4	37.902604	-122.060937	2012	9
+1	46	21	43	1	42	150	79	71	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	NA	NA	NA	NA	NA	NA	NA	2012	9
+1	37	18	11	0	11	32	17	15	4	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	Ygnacio 	Oakland	N	35	4	37.912	-122.065124	2012	9
+1	27	6	13	6	7	104	64	40	2	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	Treat Blvd	west of Jones Rd	N	35	4	37.92654	-122.055453	2012	9
+1	41	19	15	\N	\N	41	\N	\N	1	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	Ygnacio 	Civic Dr	N	35	4	37.906789	-122.058566	2012	9
+1	34	21	4	2	2	13	6	7	0	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	Bancroft	north of Ygnacio	N	35	2	37.921353	-122.035172	2012	9
+1	38	36	104	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	Broadway	Newell	N	35	4	37.90483	-122.068471	2012	9
+1	35	17	22	\N	\N	2	\N	\N	0	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	Broadway	Rudgear	N	35	4	37.879856	-122.048795	2012	9
+1	18	18	18	3	15	107	58	49	2	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	Oakland Blvd	south of Ygnacio	N	35	1	37.904158	-122.068416	2012	9
+1	45	20	47	10	37	363	185	178	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	NA	NA	NA	NA	NA	NA	NA	2012	9
+1	43	19	8	\N	\N	72	\N	\N	0	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	Broadway	Civic Dr	N	35	4	37.902448	-122.060958	2012	9
+1	39	36	25	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	Newell Ave	Broadway	N	35	3	37.893684	-122.054812	2012	9
+1	7	17	32	\N	\N	6	\N	\N	0	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	Rudgear Rd	Broadway	N	35	4	37.879717	-122.048689	2012	9
